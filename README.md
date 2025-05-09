@@ -1,2 +1,1 @@
-# PrepCourse-clase-2-Terminales
-este repositorio es el primer repositorio creado desde la pagina en la clase dos del PrepCourse
+esta es la prueba de como crear un commit y subirlo a la nube
